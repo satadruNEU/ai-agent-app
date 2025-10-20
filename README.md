@@ -2,6 +2,8 @@
 
 A modern, responsive web application built with Next.js 15 that provides an AI-powered design generation platform. This application allows users to create beautiful designs through an intuitive prompt builder interface with real-time previews and export capabilities.
 
+🌐 **Live Demo**: [https://ai-agent-app-coral.vercel.app/](https://ai-agent-app-coral.vercel.app/)
+
 ## 🚀 Features
 
 ### Core Functionality

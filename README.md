@@ -4,6 +4,9 @@ A modern, responsive web application built with Next.js 15 that provides an AI-p
 
 🌐 **Live Demo**: [https://ai-agent-app-coral.vercel.app/](https://ai-agent-app-coral.vercel.app/)
 
+<img width="2940" height="1658" alt="image" src="https://github.com/user-attachments/assets/ab3ea33e-2a2c-4a2a-b3a2-bcdbcb4f7957" />
+
+
 ## 🚀 Features
 
 ### Core Functionality
